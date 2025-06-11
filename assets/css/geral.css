@@ -1,0 +1,25 @@
+:root {
+    --white: #fff;
+    --ice-white: #F8FAFC;
+    --grey: #D9D9D9;
+    --light-grey: #F5F5F5;
+    --text-color: #333;
+    --header-bg: #2A7AB9;
+    --strong-yellow: #FFD100;
+    --light-yellow: #FFE36B;
+    --black: #1b1b1b;
+    --green: #4FA84F;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    box-sizing: border-box;
+    overflow-x: hidden;
+    width: 100%;
+    font-family: 'Gotham';
+}
